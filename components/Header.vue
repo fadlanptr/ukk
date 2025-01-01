@@ -8,8 +8,8 @@
       </button>
       <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
         <a class="navbar-brand d-flex align-items-center" href="/">
-        <img src="assets/img/logosmk.png" alt="logo" width="48" height="55"> 
-        <span>SMKN 4 TSM</span>
+        <img src="assets/img/logosmk.png " alt="logo" width="48" height="55"> 
+        <span> SMKN 4 TSM</span>
       </a>
         <ul class="navbar-nav mb-2 mb-lg-0">
           <li class="nav-item">
@@ -19,17 +19,17 @@
             <a class="nav-link active" href="profile">Profil</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="jurusan">Jurusan</a>
+            <a class="nav-link active" href="KompetensiKeahlian">Kompentensi Keahlian</a>
           </li>
           <li class="nav-item">
             <a class="nav-link active" href="eskul">Ekstrakurikuler</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="prestasi">Prestasi</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link active" href="galeri">Galeri</a>
           </li>
+          <!-- <li class="nav-item">
+            <a class="nav-link active" href="prestasi">Prestasi</a>
+          </li> -->
         </ul>
       </div>
     </div>

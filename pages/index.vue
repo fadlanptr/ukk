@@ -38,7 +38,7 @@
                         <div class="col">
                             <div>
                                 <h4>Siswa</h4>
-                                <h3>1800</h3>
+                                <h3>1500</h3>
                             </div>
                         </div>
                         <div class="col">
@@ -94,6 +94,13 @@
         </div>
     </div>
 </template>
+
+<script setup>
+useHead({
+    title: "Beranda"
+})
+</script>
+
 <style scoped>
 .welcome {
     margin-top: 90px;

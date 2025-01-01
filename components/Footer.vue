@@ -13,8 +13,10 @@
           </div>
           <div class="col-md-6 text-md-end">
             <p><strong>Media Sosial</strong></p>
-            <p><i class="fab fa-facebook"></i> <a class="text-white" href="https://www.facebook.com/4smkn?mibextid=ZbWKwL"> Facebook</a></p>
-            <p><i class="fab fa-instagram"></i> <a class="text-white" href="https://www.instagram.com/smkn4tsmofficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="> Instagram</a></p>
+            <p><i class="bi bi-facebook"></i> <a class="text-white" href="https://www.facebook.com/4smkn?mibextid=ZbWKwL"> Facebook</a></p>
+            <p><i class="bi bi-instagram"></i> <a class="text-white" href="https://www.instagram.com/smkn4tsmofficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="> Instagram</a></p>
+            <p><i class="bi bi-youtube"></i> <a class="text-white" href="https://www.youtube.com/@smkn4tasikmalayamediaoffic704"> Youtube</a></p>
+            <p><i class="bi bi-twitter-x"></i> <a class="text-white" href="https://x.com/4_smkn"> twiter-X</a></p>
           </div>
         </div>
       </div>

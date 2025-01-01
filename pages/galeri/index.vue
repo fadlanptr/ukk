@@ -15,6 +15,9 @@
     </div>
 </template>
 <script setup>
+useHead({
+    title: "Galeri"
+})
 const supabase = useSupabaseClient();
 const fotos = ref([]);
 const getgaleri = async () => {

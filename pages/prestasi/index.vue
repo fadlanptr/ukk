@@ -62,7 +62,7 @@
                 </div>
             </div>
         </div>
-        <!-- <div class="card mb-3">
+        <div class="card mb-3">
             <img src="assets/img/sains.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
@@ -70,7 +70,7 @@
                     content. This content is a little bit longer.</p>
                 <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
             </div>
-        </div> -->
+        </div>
     </div>
 </template>
 

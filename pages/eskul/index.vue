@@ -7,7 +7,7 @@
             <div class="card bg-light mb-3" style="max-width: 540px;">
                 <div class="row align-items-center">
                     <div class="col-md-4">
-                        <img src="assets/img/logosmk.png" class="img-fluid rounded-start" alt="...">
+                        <img src="assets/img/futsal.jpg" class="img-fluid rounded-start" alt="...">
                     </div>
                     <div class="col-md-8">
                         <div class="card-body ">
@@ -20,7 +20,7 @@
             <div class="card bg-light mb-3" style="max-width: 540px;">
                 <div class="row align-items-center">
                     <div class="col-md-4">
-                        <img src="assets/img/logosmk.png" class="img-fluid rounded-start" alt="...">
+                        <img src="assets/img/sepakbola.png" style="height: 165px;" class="img-fluid rounded-start" alt="...">
                     </div>
                     <div class="col-md-8">
                         <div class="card-body ">
@@ -241,6 +241,12 @@
         </div>
     </div>
 </template>
+
+<script setup>
+useHead({
+    title: "Ekstrakurikuler"
+})
+</script>
 
 <style scoped>
 .keahlian {

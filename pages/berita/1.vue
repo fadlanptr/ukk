@@ -44,6 +44,12 @@
     </div>
 </template>
 
+<script setup>
+useHead({
+    title: "Berita 1"
+})
+</script>
+
 <style scoped>
 .satu {
     margin-top: 80px;

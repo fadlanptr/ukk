@@ -57,6 +57,12 @@
     <!-- <hr> -->
 </template>
 
+<script setup>
+useHead({
+    title: "Profil"
+})
+</script>
+
 <style scoped>
 .visi {
     margin-top: 100px;
